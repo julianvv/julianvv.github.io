@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkPortfolio=self.webpackChunkPortfolio||[]).push([[218],{218:function(n,o,r){r.r(o),r.d(o,{default:function(){return s}});r(791);var t=r(35),e={booomtag:{title:"Booomtag - Lost Scan Found",description:"Beschrijving"}},i=r(184);function s(n){var o=n.name;return e.hasOwnProperty(o)?(0,i.jsx)("main",{children:(0,i.jsx)("div",{children:(0,i.jsxs)("h1",{children:["Hallo ",o]})})}):(0,i.jsx)(t.Z,{})}}}]);
+//# sourceMappingURL=218.e1b39e9c.chunk.js.map
