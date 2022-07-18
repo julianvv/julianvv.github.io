@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.097669b9.css",
-    "main.js": "/static/js/main.35fb5a13.js",
+    "main.css": "/static/css/main.6be6e09a.css",
+    "main.js": "/static/js/main.2c6ad749.js",
     "static/js/554.5f0ab9cb.chunk.js": "/static/js/554.5f0ab9cb.chunk.js",
-    "static/js/218.e189e5db.chunk.js": "/static/js/218.e189e5db.chunk.js",
+    "static/js/218.c8954e3f.chunk.js": "/static/js/218.c8954e3f.chunk.js",
     "static/media/robot.png": "/static/media/robot.a484984b8adb3a4a668f.png",
     "static/media/verbruiksmeter.png": "/static/media/verbruiksmeter.430d711b991bd7538896.png",
     "static/media/Julian.png": "/static/media/Julian.e47058a6f1cd4aa3adfb.png",
@@ -11,13 +11,13 @@
     "static/media/julian_logo_p.svg": "/static/media/julian_logo_p.e32470a8eb834827e39132f010bf8dd3.svg",
     "static/media/julian_logo_w.svg": "/static/media/julian_logo_w.66f668703cbe9ab660046e191f72997c.svg",
     "index.html": "/index.html",
-    "main.097669b9.css.map": "/static/css/main.097669b9.css.map",
-    "main.35fb5a13.js.map": "/static/js/main.35fb5a13.js.map",
+    "main.6be6e09a.css.map": "/static/css/main.6be6e09a.css.map",
+    "main.2c6ad749.js.map": "/static/js/main.2c6ad749.js.map",
     "554.5f0ab9cb.chunk.js.map": "/static/js/554.5f0ab9cb.chunk.js.map",
-    "218.e189e5db.chunk.js.map": "/static/js/218.e189e5db.chunk.js.map"
+    "218.c8954e3f.chunk.js.map": "/static/js/218.c8954e3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.097669b9.css",
-    "static/js/main.35fb5a13.js"
+    "static/css/main.6be6e09a.css",
+    "static/js/main.2c6ad749.js"
   ]
 }
